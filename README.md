@@ -1,19 +1,19 @@
-# phase_2-Learners_Academy
+# [phase_2-Learners_Academy]
 
 ## Project' Details
 ### This project aims to design and develop a backend administrative portal for the Learner’s Academy using Java EE technologies. I developed it as a project of phase 2 for the Become a back-end expert course. The goal of this project is to apply servlet, jsp and JDBC concepts.
 
 ### Product Backlog:
-1.Create database and tables.
-2.Connect the database to the project.
-3.Create models classes.
-4.Create a database utility class to retrieve data.
-5.Create login page.
-6.Create JSP files for all pages of the project.
-7.Create a servlet to get requests and send responses to the JSP files.
-8.Add cookies.
-9.Create a CSS file to format the contents.
-10.Debug and Test the project.
+[^1]Create database and tables.
+Connect the database to the project.
+Create models classes.
+Create a database utility class to retrieve data.
+Create login page.
+Create JSP files for all pages of the project.
+Create a servlet to get requests and send responses to the JSP files.
+Add cookies.
+Create a CSS file to format the contents.
+Debug and Test the project.
 
 ## Technologies and tools Used
 • Servlet: to do the business logic and works a controller for the project.
